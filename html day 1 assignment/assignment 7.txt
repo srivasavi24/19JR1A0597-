@@ -1,0 +1,19 @@
+<!Doctype html>
+	<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+	</head>
+	<body>
+		Current Date:
+		<input type="text" id="currentDate">
+		Current Time:
+		<input type="text" id="current time">
+
+		<script>
+			var today = new Date();
+			var date = today.getfullYear()+'-'+(today.getMonth)+'-'today.getDate();
+			document.getElementById("currentTime").value = time;
+		</script>
+	</body>
+	</html>

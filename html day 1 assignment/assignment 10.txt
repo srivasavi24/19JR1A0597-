@@ -1,0 +1,11 @@
+<!doctype>
+	<html>
+	<head>
+		<title> External script button</title>
+	</head>
+	<body>
+		<script scr="changecolor.js"></script>
+		<p id="123">the colour of the text will be changed to red by clicking the below button</p>
+		<button type="button" onclick="changecolor()">click to change color</button>
+	</body>
+	</html>

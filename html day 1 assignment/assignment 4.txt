@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Internal css</title>
+	<style>
+		h1{color: red;}
+		p{color: blue;}
+	</style>
+</head>
+<body>
+<h1>THIS IS HEADING</h1>
+<p>THIS IS PARAGRAPH</p>
+</body>
+</html> 
