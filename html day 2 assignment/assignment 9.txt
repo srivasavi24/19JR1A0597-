@@ -1,0 +1,13 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>Ordered list</title>
+</head>
+<body>
+<ol type="I">
+<li>Name</li>
+<li>Aadhar card</li>
+<li>Mobile number</li>
+</ol>
+</body>
+</html>

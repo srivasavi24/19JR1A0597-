@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>divisions</title>
+	<style>
+		.onediv{
+			background: green;
+			float: left;
+		}
+		.twodiv{
+			background: gray;
+			float: left;
+		}
+		.threediv{
+			background:green;
+		
+			float: left;
+		}
+		div{
+			
+			text-align: justify;
+			width: 30%;
+			border-color: solid-black;
+			padding: 1%;
+			border-radius: 5%;
+		}
+	</style>
+</head>
+<body>
+	<div class="onediv">
+		<h1>paragraph 1</h1>
+		<p>
+			Once, there was a boy who became bored when he watched over the village sheep grazing on the hillside. To entertain himself, he sang out, “Wolf! Wolf! The wolf is chasing the sheep!”When the villagers heard the cry, they came running up the hill to drive the wolf away. But, when they arrived, they saw no wolf. The boy was amused when seeing their angry faces.
+		</p>
+	</div>
+	<div class="twodiv">
+		<h1>paragraph 2</h1>
+		<p>
+			“Don’t scream wolf, boy,” warned the villagers, “when there is no wolf!” They angrily went back down the hill.Later, the shepherd boy cried out once again, “Wolf! Wolf! The wolf is chasing the sheep!” To his amusement, he looked on as the villagers came running up the hill to scare the wolf away.
+		</p>
+	</div>
+	<div class="threediv">
+		<h1>paragraph 3</h1>
+		<p>
+			As they saw there was no wolf, they said strictly, “Save your frightened cry for when there really is a wolf! Don’t cry ‘wolf’ when there is no wolf!” But the boy grinned at their words while they walked grumbling down the hill once more.
+		</p>

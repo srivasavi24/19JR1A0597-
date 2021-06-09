@@ -1,0 +1,21 @@
+<!DOCTYPE>
+<html>
+<head>
+    <style>
+      .letter{
+          background-color: yellow;
+      }
+    </style>
+</head>
+<body>
+    <h2> Welcome </h2>
+    <p>
+         <span id="t1"  class="letter"> To Bootcamp </span>
+         .It is going good.Conducted by
+         <span id="t2" class="letter"> MBT </span>
+         .This camp is working on
+         <span id="t3" class="letter"> HTML </span>
+         <button type="button" on click="document.getElementByID('t3').innerHTML='Hyper  Text Markup Language'"> ChangeText</button>
+    </p>
+</body>
+</html>
