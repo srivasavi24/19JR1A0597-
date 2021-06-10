@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title> college logo</title>
+</head>
+<body>
+	<a href="https://kitsguntur.ac.in" target="_blank"><img src="https://cdn.stumagz.com/images/57f0a66b35215coverpic"></a>
+</body>
+</html>
