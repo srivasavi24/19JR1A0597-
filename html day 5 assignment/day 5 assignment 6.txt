@@ -1,0 +1,21 @@
+<--css class example-->
+	<!doctype html>
+		<html>
+		<head>
+			<title> CSS CLASS EXAMPLE DEMO</title>
+			<style>
+			p.abc {
+				color: hotpink;
+				text-align: center;
+			}
+			p.def {
+				font-size: 300%;
+			}
+		</style>
+	</head>
+		<body>
+			<h1 class="abc">Assignment 6</h1>
+			<p class="abc"> Completed the traning</p>
+			<p class="abc def">MADBLOCKS</p>
+		</body>
+		</html>

@@ -1,0 +1,23 @@
+<doctype html>
+	<html>
+	<head>
+		<title>pseudo example 3</title>
+		<style>
+		p {
+			display: none;
+			background-color: lawngreen;
+			text-align: center;
+		}
+		div:hover p {
+			display: block;
+		}
+	</style>
+</head>
+<body>
+	<p>mad blocks</p>
+	<div>
+		traning
+		<p>mad blocks</p>
+	</div>
+</body>
+</html>

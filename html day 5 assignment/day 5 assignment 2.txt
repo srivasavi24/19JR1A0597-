@@ -1,0 +1,28 @@
+<!--CSS-->
+<!doctype html>
+	<html>
+	<head>
+		<title> adjacent sibling selector</title>
+		<style>
+		div > p {
+			background-color: aquamarine;
+		}
+	</style>
+	</head>
+	<body>
+		<h1>adjacent sibling selctor</h1>
+		<p>this is it</p>
+		<div>
+			<p>para 1 in div 1</p>
+			<p>parapara 2 in div 1</p>
+		</div>
+		<p>para 3</p>
+		<p>para 4</p>
+		<div>
+			<p>para 5 div 2</p>
+			<p>para 6 div 2</p>
+			</div>
+			<p>para 7</p>
+			<p> para 8</p>
+			</body>
+			</html> 

@@ -1,0 +1,26 @@
+<!--Child selector-->
+<!doctype html>
+	<html>
+	<head>
+		<title>child selector</title>
+		<style>
+		div p {
+			background-color: bisque;
+		}
+	</style>
+	</head>
+	<body>
+		<h1>child selector demo</h1>
+		<p>this is one combinator</p>
+		<div>
+			<p>para 1</p>
+			<p>para 2</p>
+			<section>
+				<p> para 3</p>
+			</section>
+			<p>para 4</p>
+		</div>
+		<p> para 5</p>
+		<p>para 6</p>
+	</body>
+	</html>

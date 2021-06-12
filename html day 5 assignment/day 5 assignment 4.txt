@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+	<title>general siblings</title>
+	<style>
+	div ~ p {
+		background-color: cadetblue;
+	}
+</style>
+</head>
+<body>
+	<h1>general sibling</h1>
+	<p>this 1</p>
+	<div>
+		<p>general</p>
+		<p>1</p>
+	</div>
+	<p>2</p>
+	<code>
+		<p>3</p>
+		<p>4</p>
+	</code>
+	<p>5</p>
+</body>
+</html>

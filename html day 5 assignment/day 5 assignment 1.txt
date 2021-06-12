@@ -1,0 +1,23 @@
+<!--Desendent Selector Demo-->
+<!doctype html>
+	<html>
+	<head>
+		<title> Descedent Selector Demo></title>
+		<style>
+		div p {
+			background-color: yellow;
+		}
+	</style>
+	</head>
+	<body>
+		<h2>descendent selector</h2>
+		<p>demo of combinator</p>
+		<div>
+			<p>paragraph 1</p>
+			<p>paragraph 2</p>
+			<p>paragraph 3</p>
+		</div>
+		<p>paragraph 4</p>
+		<p>paragraph 5</p>
+	</body>
+	</html>

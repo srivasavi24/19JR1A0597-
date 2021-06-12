@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+</head>
+<body>
+	<img src="mahi.jpg" usemap="#image-map">
+
+	<map name="image-map">
+    	<area target="_blank" alt="" title="Ma" href="https://twitter.com/prabhasraju?lang=en" coords="1,4,1199,623" shape="rect">
+	</map>
+
+</body>
+</html>
